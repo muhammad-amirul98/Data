@@ -136,9 +136,9 @@ LIMIT 50;
 
 Enhanced my SQL proficiency through:
 
-Crafting Complex Queries: Employed advanced SQL techniques like table merging and WITH statements.
-Aggregating Data: Utilized COUNT, GROUP BY, and AVG functions to condense information.
-Real-World Application: Translated practical inquiries into meaningful SQL queries, offering actionable insights.
+- Crafting Complex Queries: Employed advanced SQL techniques like table merging and WITH statements.
+- Aggregating Data: Utilized COUNT, GROUP BY, and AVG functions to condense information.
+- Real-World Application: Translated practical inquiries into meaningful SQL queries, offering actionable insights.
 
 # Conclusions
 
